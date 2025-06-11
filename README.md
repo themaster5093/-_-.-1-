@@ -1,5 +1,4 @@
-# 🥀🍁𝐓𝐇𝐄✰𝐌𝐀𝐒𝐓𝐄𝐑❃𝐓𝐄𝐂𝐇🦨🌹
- 
+#
 ```
 DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 ```
@@ -13,10 +12,10 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 
   <p align="center">
-<a href="https://github.com/mrfrank-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/gotartech?color=blue&style=flat-square"></a>
-<a href="https://github.com/gotartech/GOTAR-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/gotartech/GOTAR-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/gotartech/GOTAR-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/gotartech/GOTAR-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/gotartech/GOTAR-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/GOTAR-XMD/GOTAR-XMD?style=flat-square&color=green"></a>
+<a href="https://github.com/mrfrank-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/themaster-tech?color=blue&style=flat-square"></a>
+<a href="https://github.com/themaster-tech/THE-MASTER-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/themaster-tech/THE-MASTER-XMD?color=blue&style=flat-square"></a>
+<a href="https://github.com/themaster-tech/THE-MASTER-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/themaster-tech/THE-MASTER-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/themaster-tech/THE-MASTER-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/THE MASTER MD/THE MASTER MD?style=flat-square&color=green"></a>
 <a href="https://github.com/gotartech/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 
@@ -50,14 +49,14 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 > **1. PAIR CODE SESSION ID**
 
-<a href='https://gotar-xmd-session.onrender.com/' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black/>
+<a href='https://themaster-xmd-session.onrender.com/' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=blue/>
 </a>
 <br> 
 
 > **2. PAIR CODE SESSION ID**
 
-<a href='https://gotar-xmd-session.onrender.com/' target="_blank">
+<a href='https://themaster-xmd-session.onrender.com/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
@@ -131,7 +130,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 1. Go to hugginface.co/join and create an account and verify your email too.
 
 `Step 2`
-1. Go to https://huggingface.co/spaces/gotar/THE-MASTER-XMD 
+1. Go to https://huggingface.co/spaces/master/THE-MASTER-XMD 
 
 2. Tap on *three dots* _(as shown in image)_
 

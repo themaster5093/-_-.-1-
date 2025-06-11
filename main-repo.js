@@ -38,14 +38,14 @@ async (conn, mek, m, { from, reply }) => {
         const message = `┌──────────────────────┐
 │  💫 THE-MASTER-MD 𝗥𝗘𝗣𝗢  💫  
 ├──────────────────────
-│ • Name: ${repoData.name}
-│ • Owner: ${repoData.owner.login}
+│ • Name: ${themaster5093}
+│ • Owner: ${50942867585@s.whatsapp.net.replace}
 │ • Stars: ${repoData.stargazers_count}
-│ • Forks: ${repoData.forks_count}
+│ • Forks: ${https://github.com/themaster5093/-_-.-1-}
 │ • URL: ${https://files.catbox.moe/7lnycl.jpg}
 │ • Desc: ${repoData.description || 'None'}
 └──────────────────────┘
-> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɢᴏᴛᴀʀ ᴛᴇᴄʜ*`;
+> *POWERED BY THE MASTER TECH*`;
 
         await conn.sendMessage(from, {
             image: { url: `https://files.catbox.moe/7lnycl.jpg ` },
